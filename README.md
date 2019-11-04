@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/Tailspin840/Space%20game%20-%20web/_apis/build/status/tenulate.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/Tailspin840/Space%20game%20-%20web/_build/latest?definitionId=1&branchName=master)
+
 
 # Contributing
 
