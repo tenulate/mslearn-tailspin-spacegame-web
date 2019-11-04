@@ -46,3 +46,12 @@ steps:
 - task: PublishBuildArtifacts@1
   displayName: 'Publish Artifact: drop'
   condition: succeeded()
+
+
+trigger:
+  branches:
+    include:
+    - '*'     # Build all branches
+  paths:
+    exclude:
+    - docs/*  # Exclude the docs folder
